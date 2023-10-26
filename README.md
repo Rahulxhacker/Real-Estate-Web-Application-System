@@ -8,8 +8,6 @@ Real State Services is in PHP, CSS, JavaScript, and bootstrap. Talking about the
 
 #SCREENSHOTS
 
-#ALL PAGES
-
 ![Home Page](https://github.com/Rahulxhacker/Real-Estate-Web-Application-System/assets/72405667/8b711b3c-6f39-43be-a7eb-e5a7a4d4103c)
 
 ![Home Page-2](https://github.com/Rahulxhacker/Real-Estate-Web-Application-System/assets/72405667/37309eb9-7fd9-45ab-ad86-341fe3b36bba)
